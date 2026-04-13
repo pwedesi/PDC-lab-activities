@@ -18,42 +18,26 @@
 <table>
 <tr>
 <td align="center" width="50%" valign="top">
-  <blockquote>
-    <p align="center">
-      <img src="https://github.com/hdmGOAT.png" width="88" height="88" alt="Hans Matthew Del Mundo" /><br /><br />
-      <strong>Hans Matthew Del Mundo</strong><br /><br />
-      <a href="https://github.com/hdmGOAT"><kbd>@hdmGOAT</kbd></a>
-    </p>
-  </blockquote>
+  <img src="https://github.com/hdmGOAT.png" width="88" height="88" alt="Hans Matthew Del Mundo" /><br />
+  <strong>Hans Matthew Del Mundo</strong><br />
+  <a href="https://github.com/hdmGOAT"><kbd>@hdmGOAT</kbd></a>
 </td>
 <td align="center" width="50%" valign="top">
-  <blockquote>
-    <p align="center">
-      <img src="https://github.com/potakaaa.png" width="88" height="88" alt="Gerald Helbiro Jr." /><br /><br />
-      <strong>Gerald Helbiro Jr.</strong><br /><br />
-      <a href="https://github.com/potakaaa"><kbd>@potakaaa</kbd></a>
-    </p>
-  </blockquote>
+  <img src="https://github.com/potakaaa.png" width="88" height="88" alt="Gerald Helbiro Jr." /><br />
+  <strong>Gerald Helbiro Jr.</strong><br />
+  <a href="https://github.com/potakaaa"><kbd>@potakaaa</kbd></a>
 </td>
 </tr>
 <tr>
 <td align="center" width="50%" valign="top">
-  <blockquote>
-    <p align="center">
-      <img src="https://github.com/areeesss.png" width="88" height="88" alt="Vin Marcus Gerebise" /><br /><br />
-      <strong>Vin Marcus Gerebise</strong><br /><br />
-      <a href="https://github.com/areeesss"><kbd>@areeesss</kbd></a>
-    </p>
-  </blockquote>
+  <img src="https://github.com/areeesss.png" width="88" height="88" alt="Vin Marcus Gerebise" /><br />
+  <strong>Vin Marcus Gerebise</strong><br />
+  <a href="https://github.com/areeesss"><kbd>@areeesss</kbd></a>
 </td>
 <td align="center" width="50%" valign="top">
-  <blockquote>
-    <p align="center">
-      <img src="https://github.com/unripelo.png" width="88" height="88" alt="Ira Chloie Narisma" /><br /><br />
-      <strong>Ira Chloie Narisma</strong><br /><br />
-      <a href="https://github.com/unripelo"><kbd>@unripelo</kbd></a>
-    </p>
-  </blockquote>
+  <img src="https://github.com/unripelo.png" width="88" height="88" alt="Ira Chloie Narisma" /><br />
+  <strong>Ira Chloie Narisma</strong><br />
+  <a href="https://github.com/unripelo"><kbd>@unripelo</kbd></a>
 </td>
 </tr>
 </table>
