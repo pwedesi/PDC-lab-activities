@@ -9,10 +9,6 @@ from typing import Callable
 from search import linear_search, parallel_linear_search
 from sort import merge_sort, parallel_merge_sort
 
-# ---------------------------------------------------------------------------
-# Dataset builders (uniform lists of integers per assignment spec)
-# ---------------------------------------------------------------------------
-
 DATASET_SIZES = (1_000, 100_000, 1_000_000)
 SIZE_LABELS = {1_000: "small", 100_000: "medium", 1_000_000: "large"}
 RANDOM_RANGE = (1, 1_000_000)
@@ -24,13 +20,8 @@ def random_integers(n: int) -> list[int]:
 
 
 def reverse_sorted_integers(n: int) -> list[int]:
-    """Special case: random data sorted descending (reverse order)."""
+    # special case
     return sorted(random_integers(n), reverse=True)
-
-
-# ---------------------------------------------------------------------------
-# Timing helpers
-# ---------------------------------------------------------------------------
 
 
 def _time_call_value(fn: Callable[[], object]) -> tuple[float, object]:
